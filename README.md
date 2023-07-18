@@ -3,7 +3,7 @@
 By: Diego Ledesma
 GitHub: DiegoFLM
 
-A cool data science project.
+An introduction GeoPandas project.
 
 ## Directories and files structure
 
