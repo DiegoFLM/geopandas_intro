@@ -1,0 +1,13 @@
+name: geopandas_intro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - cookiecutter
+  - scipy
